@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					C9B3191F1DDDBEBE007BA08F = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = ZUM742673K;
 						ProvisioningStyle = Automatic;
 					};
 					C9B319381DDDBEBE007BA08F = {
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZUM742673K;
 				INFOPLIST_FILE = HelloWord/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lh.hw.HelloWord;
@@ -435,6 +437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZUM742673K;
 				INFOPLIST_FILE = HelloWord/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lh.hw.HelloWord;
@@ -507,6 +510,7 @@
 				C9B3194F1DDDBEBE007BA08F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C9B319501DDDBEBE007BA08F /* Build configuration list for PBXNativeTarget "HelloWordTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +519,7 @@
 				C9B319521DDDBEBE007BA08F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C9B319531DDDBEBE007BA08F /* Build configuration list for PBXNativeTarget "HelloWordUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +528,7 @@
 				C9B319551DDDBEBE007BA08F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

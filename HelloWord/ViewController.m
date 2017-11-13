@@ -17,6 +17,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = [UIColor orangeColor];
+    
+    NSLog(@"1");
+    dispatch_async(dispatch_get_main_queue(), ^{
+        NSLog(@"2");
+    });
+    NSLog(@"3");
 }
 
 
